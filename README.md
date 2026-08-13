@@ -67,6 +67,14 @@ Built using Microsoft Fabric Apps (Rayfin) to demonstrate modern application pat
 
 ## Architecture
 
+### Core Engine
+
+![Core Engine Architecture](docs/lineage-core-engine.png)
+
+### Scaled Architecture
+
+![Scaled Architecture](docs/lineage-scaled-architecture.png)
+
 ### Components
 
 | Component | Purpose |
